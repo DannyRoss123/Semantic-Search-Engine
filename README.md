@@ -1,3 +1,14 @@
+---
+title: AG News Semantic Search
+emoji: 🔍
+colorFrom: blue
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.32.0"
+app_file: app.py
+pinned: false
+---
+
 # Semantic Search Engine
 
 Semantic search over the AG News dataset built with Chroma for storage and a Streamlit UI for querying. The app can run locally or be deployed to Hugging Face Spaces.
