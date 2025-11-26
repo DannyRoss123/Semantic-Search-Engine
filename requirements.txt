@@ -1,0 +1,7 @@
+chromadb==0.4.24
+datasets>=2.19.0
+openai<1.0.0
+streamlit>=1.32.0
+numpy<2.0.0
+tqdm>=4.66.0
+python-dotenv>=1.0.0
